@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-kursovaya-rabota-должность-e",
+  "editForm": "i-i-s-kursovaya-rabota-должность-e",
+  "external": false,
+  "caption": "Должность",
+  "name": "IISKursovaya_rabotaДолжностьL",
+  "className": "ДолжностьL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-kursovaya-rabota-должность",
+      "modelProjection": "ДолжностьL"
+    }
+  ]
+}
